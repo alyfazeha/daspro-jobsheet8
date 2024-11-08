@@ -17,8 +17,8 @@ public class AverageValue05 {
                     totalNilai+=nilai;
                 }
                 rataNilai=totalNilai/5;
-                i++;  
                 System.out.println("Rata rata nilai mahasiswa ke " + i + " adalah " + rataNilai);
+                i++;  
         }
     }
 }
